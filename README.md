@@ -1,4 +1,4 @@
-<img width="1790" height="1268" alt="image" src="https://github.com/user-attachments/assets/bcd59f49-f3dd-4056-894b-0958a61b5274" /># ChatGPT会员开通全指南：Plus代充、礼品卡与虚拟信用卡教程
+# ChatGPT会员开通全指南：Plus代充、礼品卡与虚拟信用卡教程
 ChatGPT目前仍然是搜索能力和深度思考的双重王者。不过ChatGPT免费版限制多，且回答偏长，用起来非常鸡肋；就比如目前Open Ai最新的推出的AI浏览器ChatGPT Atlas，也只有ChatGPT会员付费用户才能体验。
 
 <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/3011dc40-e78d-4d30-96fc-6df0207960c4" />
