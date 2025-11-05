@@ -186,3 +186,21 @@ AI时代的快速演变，如火如荼的发展，未来掌握哪些熟练运用
 在结合文章中提供的ChatGPT相关的AI学习资料，也可以不断提升运用ChatGPT的能力，就目前来看ChatGPT无可非议还是处于领先地位，从全球访问数据上来看。如果你熟练运用其他AI工具如Claude、Grok、Gemini当然也很好，发挥各自优势，也可以借鉴ChatGPT会员开通方法在开通其他AI会员，进一步提升工作效率。
 
 ⚠️ 本文仅供学习研究使用，请遵守OpenAI官方使用条款与相关法律法规。
+
+本分类收录主流AIGC人工智能工具教程，包括ChatGPT、Claude、Midjourney、Runway等，内容涵盖账号注册、订阅充值与功能使用。通过这些教程，你可以高效掌握 AI 工具的实际应用场景。
+
+1.1 [ChatGPT Plus代充教程｜价格对比、优惠方式与使用建议全解析](https://github.com/RiverShanx/ChatGPT-Plus-top-up)—探索ChatGPT Plus的强大功能与性价比！本文详细解析ChatGPT Plus/Pro的区别、GPT-4o模型的多模态能力（文本、图像、语音、Sora视频生成），以及适合人群与使用场景。推荐星际放映厅、银河录像局、环球巴士等安全可靠的代充平台，支持支付宝支付，价格低至180元/月，享89折优惠（优惠码：XMPICK）。了解代充流程、合租优势及镜像服务，快速解锁AI写作、编程、创作等高效体验，账号安全有保障！
+
+1.2 [Grok4会员升级教程：怎么付费开通？支持代充、SuperGrok功能详解](https://github.com/RiverShanx/Grok4-upgrade)—想体验国内推出的Grok 4 AI聊天机器人？详细介绍用户如何通过「星际投影厅」或「银河录像局」快速开通SuperGrok会员，解锁Grok 4强大功能，包括Think模式、DeepSearch实时搜索和无过滤对话。教程内容代充流程、优惠码（xmpick享8.9折）、注意事项及平台对比，助你轻松体验全球领先的AI模型（超越GPT-4o，AIME） 95%准确率）。无需VPN，2分钟完成开通，计时器高，适合学术研究、内容创作和商业决策。
+
+1.3 [Gemini Pro会员开通教程：功能解析与使用—本指南旨在为中国用户提供Google最新、最强大的AI模型](https://github.com/RiverShanx/gemini-pro-buy-guide)——Gemini 2.5 Pro全面介绍，并推荐国内靠谱开通Gemini Pro会员的平台，让您无需复杂配置，即可轻松上手体验其前沿功能。
+
+1.4 [Claude账号购买全攻略：Pro/Code会员开通方法与使用技巧详解](https://github.com/RiverShanx/Claude-Pro)—随着使用需求不断增长，越来越多的用户希望升级到Claude Pro，以解锁更高级的功能。但大量的人会遇到注册难、支付确定等问题，催生了各种解决方案。论文中Claude Pro的功能价值切入，并结合常见的合租与代充平台，详细介绍如何更便捷、安全、顺利地完成订阅，帮助您快速开启Claude Pro的全部能力。
+
+1.5 [Runway会员价格与订阅攻略：开通方法、充值流程与国内购买指南](https://github.com/RiverShanx/runway-huiyuan)—Runway会员在生成国内速度、视频解析、积分积分、存储空间等方面都有显着优势，更支持高清渲染、去水印、语音转写等进阶功能。本文为您提供全面解析Runway会员价格、套餐区别，并官网充值与购买教程帮助，您快速完成订阅，畅享AI创作的无限可能。
+
+1.6 [Perplexity Pro会员购买指南：功能介绍、价格套餐与快速升级教程](https://github.com/RiverShanx/perplexity-pro-vip)—Perplexity Pro会员能够结合GPT-5、Claude Sonnet 4等先进大模型，提供高质量答案并附上权威引用。无论是学术研究、内容创作还是日常流程问答，Pro会员都可以释放更多特权，如无限制的文件与图片上传、高清视频解析、角色一致性生成等。本文为您全面介绍Perplexity Pro的优势、购买与使用体验，帮助您快速上手这款AI搜索神器。
+
+1.7 [Poe会员开通指南：解锁ChatGPT 4.5、Claude 3.7、DeepSeek等顶级大模型](https://github.com/RiverShanx/poe-vip-guide)—本文将详细介绍Poe会员的优势、开通方式，帮助你用更省钱、更稳定的方式畅享最强AI工具。
+
+1.8 [AI学习资料合集｜ChatGPT·绘图·视频·办公·教程全套资源](https://nav.xmpick.com/book/ai-collection/)—本合集由本站整理，精选ChatGPT、Midjourney、Sora、Runway、Notion AI、AI写作、AI绘图、AI视频剪辑等多个领域的高质量学习资料与课程。涵盖AI入门教程、实用案例教学、提示词技巧、项目实操、AI变现路径等实用内容，适合自学、创作者、职场提升与内容创业者使用。本合集旨在帮助更多学习者快速掌握AI工具的使用方法与实战技巧。
