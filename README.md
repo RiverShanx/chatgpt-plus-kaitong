@@ -71,7 +71,7 @@
 
 4、输入支付信息
 
-系统会要求您输入支付信息。在国内，使用虚拟信用卡是一个方便的选择。推荐使用虚拟信用卡平台如香港的PokePay。
+系统会要求您输入支付信息。在国内，使用虚拟信用卡是一个方便的选择。推荐使用虚拟信用卡平台如香港的[PokePay](https://app.pokepay.cc/pages/invitation/regist?r=365888)。
 
 <img width="1790" height="1268" alt="image" src="https://github.com/user-attachments/assets/d0e73feb-c642-4262-b6cd-569806438c93" />
 
