@@ -197,7 +197,7 @@ ChatGPT会员镜像版，简单来说，它就是官网的“加速版+优化版
 
 第三步：选择相应的服务，根据自身需求
 
-img width="2560" height="1369" alt="image" src="https://github.com/user-attachments/assets/0b25252b-df90-4204-b4ba-37744e89b9a1" />
+<img width="2560" height="1369" alt="image" src="https://github.com/user-attachments/assets/0b25252b-df90-4204-b4ba-37744e89b9a1" />
 
 这种ChatGPT Plus镜像版价格优势非常明显，也能原汁原味体验到相应的ChatGPT Plus功能，对于预算比较紧张的用户，可以考虑使用ChatGPT Plus镜像版进行过渡一下，如果觉得体验效果不错呢，有追求隐私和安全性，建议可以就直接独立升级开通ChatGPT会员，在官网或者在APP里面进行使用。
 
