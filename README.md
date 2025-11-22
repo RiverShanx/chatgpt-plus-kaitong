@@ -205,8 +205,7 @@ img width="2560" height="1369" alt="image" src="https://github.com/user-attachme
 
 开通 ChatGPT 会员的方法虽然多，但最核心的还是这五类。为了帮助你快速判断哪种方式最适合自己，下面整理了一张完整的对比图 + 对比表，从 开通难度、支付方式、速度、稳定性、安全性、适合人群 六个维度进行对比。
 
-
-![Uploading 截屏2025-11-22 18.31.08.png…]()
+<img width="656" height="456" alt="截屏2025-11-22 18 31 08" src="https://github.com/user-attachments/assets/fe206836-bfb8-409a-9a0f-0c0e3d8b23bb" />
 
 如果你追求最快捷的方式，选代充；如果你有海外支付方式，官网最稳；如果你用苹果，则优先礼品卡；想便宜体验就看镜像版。
 
